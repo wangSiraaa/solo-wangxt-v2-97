@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+scipy
+numpy
+sqlalchemy>=2.0
+psycopg2-binary
+pydantic>=2
+pydantic-settings
+pytest
+httpx
