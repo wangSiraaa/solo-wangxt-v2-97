@@ -23,3 +23,7 @@ venv/
 __pycache__/
 .pytest_cache/
 .DS_Store
+
+# local databases and build output
+*.db
+frontend/dist/
